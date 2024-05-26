@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alen - Crew Ressource Statistik</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="/plane.png">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="script.js"></script>
+</head>
+<body>
+<h3 class="info">Alen Sacipi - 23.05.2024 - 11:30 Uhr </h3>
+<div class="links">
+    <a href="https://www.viennaairport.com/passagiere/ankunft__abflug/ankuenfte">AUA Flüge</a>
+    <a href="https://www.austrian.com/at/de/aircraft-fleet">AUA Flotte</a>
+    <a id="openModalBtn">View JSON Data</a>
+</div>
+<div class="container">
+    <div class="column">
+        <h1>Crew pro Stunde</h1>
+        <div class="info-box">
+            <p id="totalCrew"></p>
+            <p id="totalPilots"></p>
+        </div>
+        <canvas id="crewChart"></canvas>
+        <h2>Meist genutztes Flugzeug pro Stunde</h2>
+        <canvas id="flugzeugtypChart"></canvas>
+    </div>
+    <div class="column">
+        <h2>Anzahl der Passagiere im Laufe des Tages</h2>
+        <canvas id="passengerChart"></canvas>
+        <h2>Anzahl der Crew nach Flugzeugtyp</h2>
+        <canvas id="flugzeugtypPieChart"></canvas>
+    </div>
+</div>
+<!-- Button to open the modal -->
+
+
+<!-- The Modal -->
+<div id="jsonModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <pre id="jsonData"></pre>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,989 @@
+[
+    {
+        "Time": "11:30",
+        "Flight": "OS 082",
+        "From": "L. Angeles",
+        "Status": "11:32",
+        "Plane": "Boeing 777-200"
+    },
+    {
+        "Time": "11:30",
+        "Flight": "OS 302",
+        "From": "Kopenhagen",
+        "Status": "11:56",
+        "Plane": ""
+    },
+    {
+        "Time": "11:30",
+        "Flight": "OS 352",
+        "From": "Br\u00fcssel",
+        "Status": "11:29",
+        "Plane": ""
+    },
+    {
+        "Time": "11:40",
+        "Flight": "OS 512",
+        "From": "Mailand",
+        "Status": "11:23",
+        "Plane": ""
+    },
+    {
+        "Time": "11:40",
+        "Flight": "OS 540",
+        "From": "Neapel",
+        "Status": "12:03",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "11:40",
+        "Flight": "OS 816",
+        "From": "Mykonos",
+        "Status": "11:48",
+        "Plane": ""
+    },
+    {
+        "Time": "11:45",
+        "Flight": "OS 204",
+        "From": "Frankfurt",
+        "Status": "11:42",
+        "Plane": ""
+    },
+    {
+        "Time": "11:45",
+        "Flight": "OS 372",
+        "From": "Amsterdam",
+        "Status": "11:31",
+        "Plane": "Airbus 320 neo"
+    },
+    {
+        "Time": "11:50",
+        "Flight": "OS 412",
+        "From": "Paris CDG",
+        "Status": "11:49",
+        "Plane": ""
+    },
+    {
+        "Time": "11:50",
+        "Flight": "OS 490",
+        "From": "Catania",
+        "Status": "11:57",
+        "Plane": ""
+    },
+    {
+        "Time": "11:50",
+        "Flight": "OS 548",
+        "From": "Bologna",
+        "Status": "11:40",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "11:50",
+        "Flight": "OS 901",
+        "From": "Heraklion",
+        "Status": "11:42",
+        "Plane": ""
+    },
+    {
+        "Time": "11:55",
+        "Flight": "OS 088",
+        "From": "New York",
+        "Status": "11:52",
+        "Plane": "Boeing 777-200"
+    },
+    {
+        "Time": "12:00",
+        "Flight": "OS 292",
+        "From": "Hannover",
+        "Status": "11:45",
+        "Plane": ""
+    },
+    {
+        "Time": "12:00",
+        "Flight": "OS 522",
+        "From": "Venedig",
+        "Status": "12:08",
+        "Plane": ""
+    },
+    {
+        "Time": "12:00",
+        "Flight": "OS 552",
+        "From": "Z\u00fcrich",
+        "Status": "11:48",
+        "Plane": ""
+    },
+    {
+        "Time": "12:05",
+        "Flight": "OS 706",
+        "From": "Prag",
+        "Status": "11:57",
+        "Plane": ""
+    },
+    {
+        "Time": "12:05",
+        "Flight": "OS 714",
+        "From": "Budapest",
+        "Status": "12:02",
+        "Plane": ""
+    },
+    {
+        "Time": "12:05",
+        "Flight": "OS 726",
+        "From": "Tivat",
+        "Status": "13:06",
+        "Plane": ""
+    },
+    {
+        "Time": "12:05",
+        "Flight": "OS 978",
+        "From": "Graz",
+        "Status": "11:53",
+        "Plane": ""
+    },
+    {
+        "Time": "12:15",
+        "Flight": "OS 312",
+        "From": "Stockholm",
+        "Status": "12:05",
+        "Plane": ""
+    },
+    {
+        "Time": "12:15",
+        "Flight": "OS 392",
+        "From": "Barcelona",
+        "Status": "12:06",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "12:15",
+        "Flight": "OS 736",
+        "From": "Belgrad",
+        "Status": "12:06",
+        "Plane": ""
+    },
+    {
+        "Time": "12:20",
+        "Flight": "OS 452",
+        "From": "London LHR",
+        "Status": "12:12",
+        "Plane": "Airbus 320 neo"
+    },
+    {
+        "Time": "12:25",
+        "Flight": "OS 532",
+        "From": "Florenz",
+        "Status": "12:26",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "12:30",
+        "Flight": "OS 226",
+        "From": "Berlin",
+        "Status": "12:31",
+        "Plane": ""
+    },
+    {
+        "Time": "12:30",
+        "Flight": "OS 684",
+        "From": "Zagreb",
+        "Status": "12:17",
+        "Plane": ""
+    },
+    {
+        "Time": "12:35",
+        "Flight": "OS 206",
+        "From": "Frankfurt",
+        "Status": "12:35",
+        "Plane": ""
+    },
+    {
+        "Time": "13:00",
+        "Flight": "OS 796",
+        "From": "Sofia",
+        "Status": "13:00",
+        "Plane": ""
+    },
+    {
+        "Time": "13:20",
+        "Flight": "OS 454",
+        "From": "London LHR",
+        "Status": "13:18",
+        "Plane": ""
+    },
+    {
+        "Time": "13:35",
+        "Flight": "OS 846",
+        "From": "Tirana",
+        "Status": "13:33",
+        "Plane": "Airbus 321"
+    },
+    {
+        "Time": "13:45",
+        "Flight": "OS 768",
+        "From": "Pristina",
+        "Status": "13:38",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "13:55",
+        "Flight": "OS 784",
+        "From": "Bukarest",
+        "Status": "14:02",
+        "Plane": ""
+    },
+    {
+        "Time": "14:10",
+        "Flight": "OS 442",
+        "From": "Valencia",
+        "Status": "14:20",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "14:10",
+        "Flight": "OS 656",
+        "From": "Chisinau",
+        "Status": "14:42",
+        "Plane": ""
+    },
+    {
+        "Time": "14:15",
+        "Flight": "OS 208",
+        "From": "Frankfurt",
+        "Status": "14:12",
+        "Plane": ""
+    },
+    {
+        "Time": "14:15",
+        "Flight": "OS 380",
+        "From": "Amsterdam",
+        "Status": "14:16",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "14:15",
+        "Flight": "OS 776",
+        "From": "Skopje",
+        "Status": "14:10",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "14:20",
+        "Flight": "OS 732",
+        "From": "Dubrovnik",
+        "Status": "14:25",
+        "Plane": ""
+    },
+    {
+        "Time": "14:25",
+        "Flight": "OS 432",
+        "From": "Mallorca",
+        "Status": "14:22",
+        "Plane": ""
+    },
+    {
+        "Time": "14:35",
+        "Flight": "OS 406",
+        "From": "Lyon",
+        "Status": "14:29",
+        "Plane": ""
+    },
+    {
+        "Time": "14:40",
+        "Flight": "OS 754",
+        "From": "Zadar",
+        "Status": "14:52",
+        "Plane": ""
+    },
+    {
+        "Time": "14:40",
+        "Flight": "OS 810",
+        "From": "Saloniki",
+        "Status": "15:00",
+        "Plane": ""
+    },
+    {
+        "Time": "14:45",
+        "Flight": "OS 228",
+        "From": "Berlin",
+        "Status": "14:40",
+        "Plane": ""
+    },
+    {
+        "Time": "14:50",
+        "Flight": "OS 556",
+        "From": "Z\u00fcrich",
+        "Status": "15:22",
+        "Plane": ""
+    },
+    {
+        "Time": "14:50",
+        "Flight": "OS 802",
+        "From": "Athen",
+        "Status": "15:09",
+        "Plane": "Airbus 320 Sharklets"
+    },
+    {
+        "Time": "15:20",
+        "Flight": "OS 210",
+        "From": "Frankfurt",
+        "Status": "15:19",
+        "Plane": ""
+    },
+    {
+        "Time": "15:30",
+        "Flight": "OS 906",
+        "From": "Innsbruck",
+        "Status": "15:18",
+        "Plane": ""
+    },
+    {
+        "Time": "15:35",
+        "Flight": "OS 598",
+        "From": "Krakau",
+        "Status": "15:47",
+        "Plane": ""
+    },
+    {
+        "Time": "15:40",
+        "Flight": "OS 524",
+        "From": "Venedig",
+        "Status": "16:53",
+        "Plane": ""
+    },
+    {
+        "Time": "15:50",
+        "Flight": "OS 722",
+        "From": "Budapest",
+        "Status": "15:51",
+        "Plane": ""
+    },
+    {
+        "Time": "15:50",
+        "Flight": "OS 940",
+        "From": "Klagenfurt",
+        "Status": "15:40",
+        "Plane": ""
+    },
+    {
+        "Time": "15:55",
+        "Flight": "OS 742",
+        "From": "Kosice",
+        "Status": "15:55",
+        "Plane": "ATR 72"
+    },
+    {
+        "Time": "15:55",
+        "Flight": "OS 758",
+        "From": "Sarajevo",
+        "Status": "15:52",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "16:10",
+        "Flight": "OS 510",
+        "From": "Mailand",
+        "Status": "16:21",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "16:10",
+        "Flight": "OS 648",
+        "From": "Sibiu",
+        "Status": "16:31",
+        "Plane": ""
+    },
+    {
+        "Time": "16:15",
+        "Flight": "OS 728",
+        "From": "Podgorica",
+        "Status": "16:18",
+        "Plane": ""
+    },
+    {
+        "Time": "16:20",
+        "Flight": "OS 230",
+        "From": "Berlin",
+        "Status": "16:14",
+        "Plane": ""
+    },
+    {
+        "Time": "16:20",
+        "Flight": "OS 624",
+        "From": "Warschau",
+        "Status": "16:55",
+        "Plane": ""
+    },
+    {
+        "Time": "16:25",
+        "Flight": "OS 570",
+        "From": "Z\u00fcrich",
+        "Status": "16:40",
+        "Plane": ""
+    },
+    {
+        "Time": "16:25",
+        "Flight": "OS 746",
+        "From": "Split",
+        "Status": "16:22",
+        "Plane": ""
+    },
+    {
+        "Time": "16:30",
+        "Flight": "OS 174",
+        "From": "Hamburg",
+        "Status": "17:01",
+        "Plane": ""
+    },
+    {
+        "Time": "16:30",
+        "Flight": "OS 184",
+        "From": "Stuttgart",
+        "Status": "16:32",
+        "Plane": ""
+    },
+    {
+        "Time": "16:30",
+        "Flight": "OS 360",
+        "From": "Br\u00fcssel",
+        "Status": "16:31",
+        "Plane": ""
+    },
+    {
+        "Time": "16:35",
+        "Flight": "OS 104",
+        "From": "M\u00fcnchen",
+        "Status": "16:34",
+        "Plane": ""
+    },
+    {
+        "Time": "16:35",
+        "Flight": "OS 294",
+        "From": "Hannover",
+        "Status": "16:34",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "16:40",
+        "Flight": "OS 154",
+        "From": "D\u00fcsseldorf",
+        "Status": "17:11",
+        "Plane": ""
+    },
+    {
+        "Time": "16:40",
+        "Flight": "OS 326",
+        "From": "G\u00f6teborg",
+        "Status": "16:53",
+        "Plane": ""
+    },
+    {
+        "Time": "16:40",
+        "Flight": "OS 792",
+        "From": "Sofia",
+        "Status": "17:19",
+        "Plane": ""
+    },
+    {
+        "Time": "16:40",
+        "Flight": "OS 838",
+        "From": "Larnaka",
+        "Status": "17:02",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "16:45",
+        "Flight": "OS 386",
+        "From": "Malaga",
+        "Status": "17:04",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "16:45",
+        "Flight": "OS 636",
+        "From": "Vilnius",
+        "Status": "16:45",
+        "Plane": ""
+    },
+    {
+        "Time": "16:45",
+        "Flight": "OS 782",
+        "From": "Bukarest",
+        "Status": "17:14",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "16:50",
+        "Flight": "OS 764",
+        "From": "Warna",
+        "Status": "approaching",
+        "Plane": ""
+    },
+    {
+        "Time": "17:10",
+        "Flight": "OS 964",
+        "From": "Graz",
+        "Status": "17:25",
+        "Plane": ""
+    },
+    {
+        "Time": "17:15",
+        "Flight": "OS 212",
+        "From": "Frankfurt",
+        "Status": "17:06",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "17:20",
+        "Flight": "OS 314",
+        "From": "Stockholm",
+        "Status": "17:27",
+        "Plane": ""
+    },
+    {
+        "Time": "17:20",
+        "Flight": "OS 336",
+        "From": "Oslo OSL",
+        "Status": "17:26",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "17:35",
+        "Flight": "OS 710",
+        "From": "Prag",
+        "Status": "approaching",
+        "Plane": ""
+    },
+    {
+        "Time": "17:40",
+        "Flight": "OS 434",
+        "From": "Mallorca",
+        "Status": "approaching",
+        "Plane": ""
+    },
+    {
+        "Time": "17:50",
+        "Flight": "OS 416",
+        "From": "Paris CDG",
+        "Status": "18:21",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "17:50",
+        "Flight": "OS 917",
+        "From": "Rhodos",
+        "Status": "18:06",
+        "Plane": ""
+    },
+    {
+        "Time": "18:05",
+        "Flight": "OS 858",
+        "From": "Tel Aviv",
+        "Status": "18:27",
+        "Plane": ""
+    },
+    {
+        "Time": "18:15",
+        "Flight": "OS 232",
+        "From": "Berlin",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "18:20",
+        "Flight": "OS 462",
+        "From": "London LHR",
+        "Status": "18:42",
+        "Plane": ""
+    },
+    {
+        "Time": "18:25",
+        "Flight": "OS 052",
+        "From": "Tokio NRT",
+        "Status": "17:59",
+        "Plane": "Boeing 777-200"
+    },
+    {
+        "Time": "18:45",
+        "Flight": "OS 214",
+        "From": "Frankfurt",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "18:50",
+        "Flight": "OS 943",
+        "From": "Olbia",
+        "Status": "18:33",
+        "Plane": "Airbus 321"
+    },
+    {
+        "Time": "19:00",
+        "Flight": "OS 514",
+        "From": "Mailand",
+        "Status": "",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "19:20",
+        "Flight": "OS 304",
+        "From": "Kopenhagen",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "19:20",
+        "Flight": "OS 798",
+        "From": "Sofia",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "19:25",
+        "Flight": "OS 848",
+        "From": "Tirana",
+        "Status": "",
+        "Plane": "Airbus 320 Sharklets"
+    },
+    {
+        "Time": "19:25",
+        "Flight": "OS 854",
+        "From": "Amman",
+        "Status": "19:29",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "19:30",
+        "Flight": "OS 374",
+        "From": "Amsterdam",
+        "Status": "",
+        "Plane": "Airbus 320 neo"
+    },
+    {
+        "Time": "19:35",
+        "Flight": "OS 354",
+        "From": "Br\u00fcssel",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "19:40",
+        "Flight": "OS 678",
+        "From": "Zagreb",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "19:40",
+        "Flight": "OS 832",
+        "From": "Larnaka",
+        "Status": "19:49",
+        "Plane": "Boeing 777-200"
+    },
+    {
+        "Time": "19:45",
+        "Flight": "OS 786",
+        "From": "Bukarest",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "19:50",
+        "Flight": "OS 410",
+        "From": "Paris CDG",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "19:50",
+        "Flight": "OS 536",
+        "From": "Florenz",
+        "Status": "",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "19:50",
+        "Flight": "OS 902",
+        "From": "Innsbruck",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:00",
+        "Flight": "OS 160",
+        "From": "D\u00fcsseldorf",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:05",
+        "Flight": "OS 554",
+        "From": "Z\u00fcrich",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:05",
+        "Flight": "OS 738",
+        "From": "Belgrad",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:10",
+        "Flight": "OS 234",
+        "From": "Berlin",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:25",
+        "Flight": "OS 530",
+        "From": "Venedig",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:30",
+        "Flight": "OS 116",
+        "From": "M\u00fcnchen",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "20:50",
+        "Flight": "OS 550",
+        "From": "Bologna",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:55",
+        "Flight": "OS 188",
+        "From": "Stuttgart",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "20:55",
+        "Flight": "OS 216",
+        "From": "Frankfurt",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "20:55",
+        "Flight": "OS 632",
+        "From": "Warschau",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "21:00",
+        "Flight": "OS 236",
+        "From": "Berlin",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:00",
+        "Flight": "OS 254",
+        "From": "Leipzig",
+        "Status": "",
+        "Plane": "ATR 72"
+    },
+    {
+        "Time": "21:05",
+        "Flight": "OS 436",
+        "From": "Mallorca",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:10",
+        "Flight": "OS 276",
+        "From": "Bremen",
+        "Status": "",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "21:20",
+        "Flight": "OS 862",
+        "From": "Tel Aviv",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:25",
+        "Flight": "OS 544",
+        "From": "Neapel",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "21:25",
+        "Flight": "OS 576",
+        "From": "Genf",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:35",
+        "Flight": "OS 156",
+        "From": "D\u00fcsseldorf",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "21:35",
+        "Flight": "OS 356",
+        "From": "Br\u00fcssel",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:40",
+        "Flight": "OS 296",
+        "From": "Hannover",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "21:40",
+        "Flight": "OS 306",
+        "From": "Kopenhagen",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:50",
+        "Flight": "OS 474",
+        "From": "Basel",
+        "Status": "",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "21:50",
+        "Flight": "OS 488",
+        "From": "Palermo",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "21:55",
+        "Flight": "OS 196",
+        "From": "K\u00f6ln",
+        "Status": "",
+        "Plane": "Embraer 195"
+    },
+    {
+        "Time": "21:55",
+        "Flight": "OS 376",
+        "From": "Amsterdam",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "22:00",
+        "Flight": "OS 172",
+        "From": "Hamburg",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "22:00",
+        "Flight": "OS 402",
+        "From": "Marseille",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "22:00",
+        "Flight": "OS 516",
+        "From": "Mailand",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "22:10",
+        "Flight": "OS 316",
+        "From": "Stockholm",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "22:10",
+        "Flight": "OS 418",
+        "From": "Paris CDG",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "22:10",
+        "Flight": "OS 566",
+        "From": "Z\u00fcrich",
+        "Status": "",
+        "Plane": "Airbus 321"
+    },
+    {
+        "Time": "22:15",
+        "Flight": "OS 238",
+        "From": "Berlin",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "22:15",
+        "Flight": "OS 942",
+        "From": "Cagliari",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "22:40",
+        "Flight": "OS 456",
+        "From": "London LHR",
+        "Status": "",
+        "Plane": "Airbus 320 neo"
+    },
+    {
+        "Time": "22:45",
+        "Flight": "OS 118",
+        "From": "M\u00fcnchen",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "22:55",
+        "Flight": "OS 394",
+        "From": "Barcelona",
+        "Status": "",
+        "Plane": "Airbus 320"
+    },
+    {
+        "Time": "22:55",
+        "Flight": "OS 446",
+        "From": "Porto",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "23:05",
+        "Flight": "OS 430",
+        "From": "Nizza",
+        "Status": "",
+        "Plane": ""
+    },
+    {
+        "Time": "23:05",
+        "Flight": "OS 506",
+        "From": "Rom FCO",
+        "Status": "",
+        "Plane": "Airbus 320 neo"
+    },
+    {
+        "Time": "23:10",
+        "Flight": "OS 220",
+        "From": "Frankfurt",
+        "Status": "",
+        "Plane": "Airbus 320"
+    }
+]
